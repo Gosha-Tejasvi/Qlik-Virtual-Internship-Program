@@ -30,4 +30,7 @@ videos:
 https://youtu.be/f_Cwx5Hsvxk?si=cSI6fV9RTmf7Dvkt
 
 
+DOCUMENT :
+[qlik_document.pdf](https://github.com/user-attachments/files/15753628/qlik_document.pdf)
+
 
