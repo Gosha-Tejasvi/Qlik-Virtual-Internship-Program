@@ -12,8 +12,11 @@ s/files/15753593/SHEET_2.pdf)
 
 [SHEET-3.pdf](https://github.com/user-attachments/files/15753594/SHEET-3.pdf)
 
-[Uploading Screencast from Sunday 09 June 2024 10:51:36  IST.webm…]()
+[Qlik Sense - PROFIT_DASHBOARD - June 7, 2024.pdf](https://github.com/user-attachments/files/15753613/Qlik.Sense.-.PROFIT_DASHBOARD.-.June.7.2024.pdf)
+
+
 
 [Qlik Sense - Sales trends_1 - June 4, 2024.pdf](https://github.com/user-attachments/files/15753597/Qlik.Sense.-.Sales.trends_1.-.June.4.2024.pdf)
+
 
 
