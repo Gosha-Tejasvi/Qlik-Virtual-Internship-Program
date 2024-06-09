@@ -6,7 +6,14 @@ https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-d
 
 OUTPUTS:
 [SHEET_1.pdf](https://github.com/user-attachments/files/15753592/SHEET_1.pdf)
+
 [SHEET_2.pdf](https://github.com/user-attachment[Qlik Sense - SUPPLY CHAIN DASHBOARD - June 7, 2024.pdf](https://github.com/user-attachments/files/15753596/Qlik.Sense.-.SUPPLY.CHAIN.DASHBOARD.-.June.7.2024.pdf)
 s/files/15753593/SHEET_2.pdf)
+
 [SHEET-3.pdf](https://github.com/user-attachments/files/15753594/SHEET-3.pdf)
+
+[Uploading Screencast from Sunday 09 June 2024 10:51:36  IST.webm…]()
+
 [Qlik Sense - Sales trends_1 - June 4, 2024.pdf](https://github.com/user-attachments/files/15753597/Qlik.Sense.-.Sales.trends_1.-.June.4.2024.pdf)
+
+
